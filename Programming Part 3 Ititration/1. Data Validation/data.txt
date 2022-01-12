@@ -1,0 +1,6 @@
+Validation in python prevents third-party 
+users from mishandling the code accidentally 
+or intentionally. It can be used to check if 
+the input data type is correct or not. 
+It can be used to check if there are no 
+invalid values in the given input.

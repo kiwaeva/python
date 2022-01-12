@@ -1,0 +1,12 @@
+Pseudocode is used to design programs
+It is intended for humans to read and not for a computer to interpret. 
+There is no specific syntax for pseudocode, and it should be human 
+readable so that a programmer can translate it into program code. 
+
+pseudocode example below:
+Ask user to Enter username 
+IF username entered ==/equal "python"
+THEN 
+Print/output: "your name is " username
+ELSE
+Print/output: "Incorrect username, try again"

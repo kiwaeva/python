@@ -1,0 +1,12 @@
+button{
+    margin: 10px;
+}
+
+h1{
+    text-align: center;
+}
+
+.iframe {
+    display: flex;
+    justify-content: center;
+}
